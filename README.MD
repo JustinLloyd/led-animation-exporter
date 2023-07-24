@@ -1,6 +1,6 @@
 # After Effects LED Animation Exporter 💡
 
-This tool is a JavaScript script designed to export LED animations from an Adobe After Effects project. It is both simple and powerful, allowing for a high level of control and customization.
+This tool is a JavaScript script designed to export LED animations from an Adobe After Effects project that you can then use on your embedded projects for Raspberry Pi, Arduino and other small devices with lots of LEDs that can light up and animate. It is simple to use allowing for a high level of control and customization of your device's LEDs. Anthing that you can animate in After Effects using an object that changes colour over time can be used so long as you following the prescribed project format. It is easy to making pulsing, glowing, rapidly flashing sequences, or sequences that have a trail like in Knight Rider or a Cylon. The script will output the animation data in a variety of formats, e.g. JSON and C++ source code, with no configuration necessary.
 
 ## Prerequisites 📋
 
